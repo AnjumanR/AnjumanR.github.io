@@ -1,4 +1,5 @@
 @import url("fontawesome-all.min.css");
+@import url("all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
 
@@ -2785,7 +2786,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #7387d9; /*border on side panel*/
+					border-top: solid 0.5px #7387d9; /*border on side panel*/
 					display: block;
 					padding: 0;
 				}
@@ -2798,7 +2799,7 @@ input, select, textarea {
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.7em 0;
 						text-decoration: none;
 					}
 
