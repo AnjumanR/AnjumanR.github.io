@@ -174,10 +174,10 @@
 						<!-- Four -->
 							<section id="five">
 								<div class="container">
-									<script src="js/form.js"></script>
+									<script src="assets/js/form.js"></script>
 									<h2>Contact Me</h2>
-									<p>Holder names for now, contact text fields below.</p>
-									<form method="post" action="#">
+									<p><!--Holder names for now, contact text fields below.--></p>
+									<form onsubmit="return false" method="post" action="#">
 										<div class="row gtr-uniform">
 											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
 											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
@@ -185,8 +185,8 @@
 											<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
 											<div class="col-12">
 												<ul class="actions">
-													<li><input type="submit" class="primary" value="Send Message" /></li>
-													<li><input type="reset" value="Reset Form" /></li>
+													<li><input type="submit" class="primary" id= "send" value="Send Message" onclick=" sendContact();"/></li>
+													<li><input type="reset" id = "reset" value="Reset Form" onclick="document.forms[0].reset()"/></li>
 												</ul>
 											</div>
 										</div>
