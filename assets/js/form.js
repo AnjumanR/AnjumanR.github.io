@@ -74,10 +74,7 @@ function sendContact()
 //function sendMail() {
 //    $.ajax({
 //      type: 'POST',
-//      url: 'https://452753623635-r7bdiqk6ac5olnuou0tldbpa05tov9qi.apps.googleusercontent.com',
-//      data: {
-//        'key': 'AIzaSyBXycJmXbq8Lu5a_r4luWqglLaM5CDFp8g',
-//        'message': {
+
 //          'from_email': 'anjumanraha@gmail.com',
 //          'to': [
 //              {
