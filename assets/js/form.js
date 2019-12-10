@@ -58,11 +58,11 @@ function sendContact()
 {
 	if(isValid()){
 		let usr = new User(fields.name.value, fields.email.value, fields.subject.value, fields.message.value);
-		alert(usr.name +', thanks for registering.')
+		//alert(usr.name +', thanks for registering.')
 		var i;
 		const values = Object.values(fields)
 		window.location.href = "mailto:anjumanraha@gmai1.com?subject=" + fields.subject.value + "&body= Prefered Email: " + fields.email.value + ". " + fields.message.value + " ";
-		console.log("mailto:anjumanraha@gmai1.com?subject=" + fields.subject.value + "&body=Prefered Email: " + fields.email.value + ". " + fields.message.value)
+		console.log("mailto:anjumanraha@gmail.com?subject=" + fields.subject.value + "&body=Prefered Email: " + fields.email.value + ". " + fields.message.value)
 		//sendMail()
 	}
 	else
