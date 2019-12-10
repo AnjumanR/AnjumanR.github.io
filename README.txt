@@ -1,25 +1,3 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
 Credits:
 
 	Demo Images:
@@ -32,3 +10,10 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
+
+For a UCSD CAT project, I created a website that showcases my previous work, internship experiences, projects affiliations, and skills. This project is hosted through GitHub’s free pages.github.com service, and the link for it is anjumanr.github.io. This website is not only important for this CAT assignment but also important in the future because I plan to use this medium to showcase myself for as long as possible. Thus, the site will be updated over time as I learn more skills and gain more experience. I used web development tools and languages such as HTML, CSS, and Javascript. I also used the Brackets code editor, which makes web development very smooth with features like Live Preview and Code Hints. This website is directed towards hiring managers, recruiters, and anyone interested in learning more about me and my background. 
+Before this project, my resume did not always wholly capture my work, and I realized a website would give me space and freedom to mention more detail. The first step I took was to take my existing resume and expanded on the descriptions, update the skills, and emphasize my strongest qualities. Rewriting my resume was essential because many of my experience descriptions were lacking in my previous resume. However, the revamp ultimately ended with an unaesthetic one and a half page Word document that could not be modified fit in my previous two-column format. Therefore, porting the text from this new resume to a website portfolio that is interactive and visually aesthetic is a better solution. Through this project, I recognized that a web page is a significantly better form of media to portray my resume compared to a Word or PDF document that restricts me to a single page. This website also gives me the opportunity to provide visual aids with pictures of projects to company logos. While a resume is still essential, I would like for this site not just to complement my resume, but extensively expand on it, and create a memorable experience for anyone viewing it. I would include a link to this site on my resume and cover letter to indicate to the potential recruiters and hiring managers to visit the website for a better experience. For example, to further describe a previous internship, I have a link to a Google Drive page in my for a PDF poster (bit.ly/WCTInfo) on my previous resume. If a hiring manager wanted to learn more, they would have to type in the link in their browser and pull it up, but with a web page, I was able to link the PDF directly.
+For my Statement of Purpose assignment, I wrote a cover letter, and I would use many of the experience and project descriptions on it towards the text on this webpage. My previous resume did not include information about the current organization that I am a part of, Triton Robosub; the site gives me the space to describe the organization and my individual on-going contributions. On this site, I included projects I have done previously as well as the ones I am currently working on; however, I would like for the website to be a personal project itself that demonstrates my web development experience. Therefore, I made an effort to make this website as much as I could from scratch without having to use website builders like Squarespace. I have a little web development experience, but tackling something as complex as this was a whole new challenge. There were numerous open-source resources such as icons and fonts that I was able to utilize, as well as resources on GitHub that helped me implement animations using jQuery. However, for everything else, I tried to build everything else from the ground up using Javascript, CSS, HTML5, and more. I also created a GitHub code repository (github.com/AnjumanR/AnjumanR.github.io) to maintain my code and the various iterations of it.
+A website is a popular form of digital communication in the modern world, and using it for a personal portfolio is a much stronger alternative to a mere text resume. By taking the content from my cover letter and resume and expanding on, I can present it visually and interactively on anjumanr.github.io.
